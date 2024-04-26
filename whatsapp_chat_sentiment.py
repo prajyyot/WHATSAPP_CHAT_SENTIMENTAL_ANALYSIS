@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
-# Extract Time
+# Extract Time.
 def date_time(s):
     pattern = '^([0-9]+)(\/)([0-9]+)(\/)([0-9]+), ([0-9]+):([0-9]+)[ ]?(AM|PM|am|pm)? -'
     result = re.match(pattern, s)
