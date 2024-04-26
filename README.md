@@ -14,4 +14,4 @@ Positive  Negative  Neutral
 0.000       0.0     1.000
 0.000       0.0     1.000
 
-And the overall sentiment score of the whatsapp chat was Neutral 🙂
+And the overall sentiment score of the whatsapp chat was Neutral 🙂.
